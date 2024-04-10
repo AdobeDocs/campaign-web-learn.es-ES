@@ -5,8 +5,9 @@ feature: Overview
 role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
-source-git-commit: 10e858e34a40157347f026c8c7a0db1326d872bc
-workflow-type: ht
+exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
+source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
+workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 100%
 
@@ -25,8 +26,8 @@ La personalización de la plataforma de Campaign en función de las necesidades 
 >
 > ¿Estos tutoriales no son lo que buscaba?
 > Consulte lo siguiente
-> * [Tutoriales de la consola de cliente de Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=es) {target="_blank"}para obtener instrucciones sobre la consola de Campaign
-> * [Documentación de web de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=es) {target="_blank"} para obtener más información sobre la interfaz de usuario web de Campaign.
+> * [Tutoriales de la consola de cliente de Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=es){target="_blank"}para obtener instrucciones sobre la consola de Campaign
+> * [Documentación de web de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=es){target="_blank"} para obtener más información sobre la interfaz de usuario web de Campaign.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -43,4 +44,3 @@ La personalización de la plataforma de Campaign en función de las necesidades 
 * **[Un salto adelante con la nueva interfaz de usuario web de Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=es){target="_blank"}**
 
   *Aprenda a planificar, iniciar y medir campañas en canales múltiples con la nueva experiencia del usuario.*
-
