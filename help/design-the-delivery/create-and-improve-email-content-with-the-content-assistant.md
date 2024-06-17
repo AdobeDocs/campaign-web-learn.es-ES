@@ -1,6 +1,6 @@
 ---
 title: Creación y mejora de contenido de correo electrónico con el asistente de contenido
-description: Aprenda a utilizar el generador asistente de contenido con tecnología de IA para crear y mejorar el contenido del correo electrónico, optimizando los envíos de correo electrónico para que resuenen mejor en su público.
+description: Aprenda a utilizar el asistente de contenido generativo con tecnología de IA para crear y mejorar el contenido del correo electrónico.
 feature: Email Design
 role: User
 level: Beginner
@@ -11,17 +11,17 @@ jira: KT-14454
 hidefromtoc: true
 hide: true
 badgeAlpha: label="Alpha" type="informative" before-title="true"
-source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+exl-id: 9502667e-0819-4cfb-84c9-ea68f07a8400
+source-git-commit: 1f603df605fa02b70880c0e0741db5927e17f7c5
+workflow-type: tm+mt
+source-wordcount: '78'
+ht-degree: 57%
 
 ---
 
-
 # Creación y mejora de contenido de correo electrónico con el asistente de contenido
 
-Aprenda a utilizar el generador asistente de contenido con tecnología de IA para crear y mejorar el contenido del correo electrónico, optimizando los envíos de correo electrónico para que resuenen mejor en su público.
+Aprenda a utilizar el asistente de contenido generativo con tecnología de IA para crear y mejorar el contenido del correo electrónico.
 
 >[!NOTE]
 >
@@ -29,4 +29,4 @@ Aprenda a utilizar el generador asistente de contenido con tecnología de IA par
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
 
-Para obtener más información, consulta la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs.html?lang=es).
+Para obtener más información, consulta la [documentación del producto](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).
