@@ -13,9 +13,9 @@ hide: true
 badgeAlpha: label="Alpha" type="informative" before-title="true"
 exl-id: 9502667e-0819-4cfb-84c9-ea68f07a8400
 source-git-commit: 1f603df605fa02b70880c0e0741db5927e17f7c5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '78'
-ht-degree: 57%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ Aprenda a utilizar el asistente de contenido generativo con tecnología de IA pa
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
 
-Para obtener más información, consulta la [documentación del producto](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).
+Para obtener más información, consulta la [documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).
