@@ -5,10 +5,10 @@ user-guide-title: Interfaz de usuario de Adobe Campaign Web
 user-guide-description: Aprenda a utilizar las funciones y capacidades de la consola del cliente de Adobe Campaign Web.
 breadcrumb-title: 'Interfaz de usuario web: Tutoriales'
 auto-video-transcripts: true
-source-git-commit: b99644fbf167da31382a931a2b0a3073f132a527
+source-git-commit: e10369e1cdd3487dfaeaff119e4973142e7d8db8
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 90%
+source-wordcount: '134'
+ht-degree: 100%
 
 ---
 
@@ -18,13 +18,14 @@ ht-degree: 90%
 + [Tutoriales de la interfaz de usuario web de Adobe Campaign](/help/ac-web-learn-main/overview.md)
 + Introducción {#getting-started}
    + [Exploración de la interfaz de usuario de Campaign Web](/help/get-started/explore-the-web-ui.md)
-   + [Introducción a Adobe Campaign v8 después de migrar del Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
+   + [Introducción a Adobe Campaign v8 después de migrar desde Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=es)
 + Mensajes y envíos {#messages-and-deliveries}
    + [Crear un envío de correo electrónico](/help/deliveries/create-an-email-delivery.md)
    + [Diseño de contenido de correo electrónico desde cero](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Creación de un correo electrónico cargando HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Creación y mejora de contenido de correo electrónico con el asistente de contenido](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Previsualización y prueba de un envío de correo electrónico](/help/deliveries/preview-and-proof-an-email-delivery.md)
+   + [Crear un envío de correo directo](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Perfiles y públicos {#profiles-and-audiences}
    + [Exploración de perfiles](/help/profiles-and-audiences/explore-profiles.md)
    + [Administrar y generar públicos](/help/profiles-and-audiences/manage-and-build-audiences.md)
