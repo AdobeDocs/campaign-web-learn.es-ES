@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 88%
    + [Diseño de contenido de correo electrónico desde cero](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Creación de un correo electrónico cargando HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Creación y mejora de contenido de correo electrónico con el asistente de contenido](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
-   + [Creación de contenido con el asistente de IA en Campaign: acelerador de contenido](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
+   + [Creación de contenido con el Asistente de IA en Campaign: Acelerador de contenido](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Previsualización y prueba de un envío de correo electrónico](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [Crear un envío de correo directo](/help/design-the-delivery/create-a-direct-mail-delivery.md)
+   + [Creación de un envío de correo directo](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Perfiles y públicos {#profiles-and-audiences}
    + [Exploración de perfiles](/help/profiles-and-audiences/explore-profiles.md)
    + [Administrar y generar públicos](/help/profiles-and-audiences/manage-and-build-audiences.md)

@@ -1,6 +1,6 @@
 ---
-title: 'Creación de contenido con el asistente de IA en Campaign: acelerador de contenido'
-description: 'Aprenda a utilizar el asistente de IA en Campaign: acelerador de contenido para generar contenido según el canal para campañas en tiempo real 1:1 y por lotes que resuenen con la audiencia objetivo.'
+title: 'Creación de contenido con el Asistente de IA en Campaign: Acelerador de contenido'
+description: 'Obtenga información sobre cómo utilizar el Asistente de IA en Campaign: acelerador de contenido para generar contenido según el canal para campañas por lotes y 1:1 en tiempo real que resuenen con el público destinatario.'
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -13,13 +13,13 @@ hide: false
 source-git-commit: f16d7d8d0db84ce411b3ff5f8922de05ade5dcab
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Creación de contenido con el asistente de IA en Campaign: acelerador de contenido
+# Creación de contenido con el Asistente de IA en Campaign: Acelerador de contenido
 
-Aprenda a utilizar el asistente de IA en Campaign: acelerador de contenido para generar contenido según el canal para campañas en tiempo real 1:1 y por lotes que resuenen con la audiencia objetivo.
+Obtenga información sobre cómo utilizar el Asistente de IA en Campaign: acelerador de contenido para generar contenido según el canal para campañas por lotes y 1:1 en tiempo real que resuenen con el público destinatario.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
