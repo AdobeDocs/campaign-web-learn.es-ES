@@ -5,10 +5,10 @@ user-guide-title: Interfaz de usuario de Adobe Campaign Web
 user-guide-description: Aprenda a utilizar las funciones y capacidades de la consola del cliente de Adobe Campaign Web.
 breadcrumb-title: 'Interfaz de usuario web: Tutoriales'
 auto-video-transcripts: true
-source-git-commit: d5625a3edfc642ab006f295401c2532e3d6e1b37
+source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 95%
+source-wordcount: '154'
+ht-degree: 85%
 
 ---
 
@@ -36,4 +36,5 @@ ht-degree: 95%
 + Grabaciones en directo de Experience League{#exl-live-recordings}
    + [Un salto adelante con la nueva interfaz de usuario web de Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=es){target="_blank"}
 + [Tutoriales de la consola cliente de Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=es){target="_blank"}
++ [AI Bash: desbloqueando el poder del asistente de IA en las aplicaciones y campañas de Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
 
