@@ -11,9 +11,9 @@ last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -26,4 +26,4 @@ Obtenga información sobre cómo utilizar el Asistente de IA en Campaign: aceler
 
 ## Recursos adicionales
 
-* Experience League EN VIVO: [AI Bash: desbloqueando el poder del asistente de IA en las aplicaciones y campañas de Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
+* Experience League EN VIVO: [Bash de IA: desbloqueando toda la potencia del Asistente de IA en las aplicaciones de Adobe Experience Platform y Campaign](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
