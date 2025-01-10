@@ -5,9 +5,9 @@ user-guide-title: Interfaz de usuario de Adobe Campaign Web
 user-guide-description: Aprenda a utilizar las funciones y capacidades de la consola del cliente de Adobe Campaign Web.
 breadcrumb-title: 'Interfaz de usuario web: Tutoriales'
 auto-video-transcripts: true
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
-source-wordcount: '154'
+source-git-commit: 4cc7d83096f08728a5fb7ad7972be5953ca62126
+workflow-type: tm+mt
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [Creación de un envío de correo directo](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Perfiles y públicos {#profiles-and-audiences}
    + [Exploración de perfiles](/help/profiles-and-audiences/explore-profiles.md)
+   + [Creación y administración de perfiles de prueba](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
    + [Administrar y generar públicos](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [Creación de un público con Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Flujos de trabajo {#workflows}
