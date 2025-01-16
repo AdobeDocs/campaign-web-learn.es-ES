@@ -6,9 +6,9 @@ user-guide-description: Aprenda a utilizar las funciones y capacidades de la con
 breadcrumb-title: 'Interfaz de usuario web: Tutoriales'
 auto-video-transcripts: true
 source-git-commit: 9869357b23d4fee7ec0a9ae7fa1806d0857d9630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 96%
    + [Creación de contenido con el Asistente de IA en Campaign: Acelerador de contenido](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Creación de un envío de correo directo](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Gestión de contenidos {#content-management}
-   + [Mejora de una entrega con contenido dinámico](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
+   + [Mejora de un envío con contenido dinámico](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + Perfiles y públicos {#profiles-and-audiences}
    + [Exploración de perfiles](/help/profiles-and-audiences/explore-profiles.md)
    + [Creación y administración de perfiles de prueba](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
