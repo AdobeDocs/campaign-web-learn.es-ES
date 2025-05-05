@@ -23,4 +23,4 @@ Descubra cómo funcionan los flujos de trabajo y cómo crear un flujo de trabajo
 >[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
 
 
-Para más información sobre esta característica, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html).
+Para más información sobre esta característica, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=es).

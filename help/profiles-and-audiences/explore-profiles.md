@@ -22,4 +22,4 @@ Obtén información sobre cómo acceder, administrar y explorar perfiles mediant
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
 
-Para obtener más información acerca de esta funcionalidad, consulta la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html)
+Para obtener más información acerca de esta funcionalidad, consulta la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=es)

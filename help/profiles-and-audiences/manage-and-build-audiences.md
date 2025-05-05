@@ -22,4 +22,4 @@ Obtenga información sobre cómo crear y administrar audiencias, cómo seleccion
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
 
-Para obtener más información acerca de esta funcionalidad, consulta la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=en)
+Para obtener más información acerca de esta funcionalidad, consulta la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=es)
