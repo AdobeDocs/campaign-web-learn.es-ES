@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Obtén información sobre cómo navegar por el Diseñador de correo electrónico. Aprenda a estructurar y diseñar un correo electrónico desde cero, a personalizarlo y a probarlo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453568/?learn=on&captions=spa)
 
 >[!NOTE]
 >

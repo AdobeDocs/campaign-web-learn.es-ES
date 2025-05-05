@@ -23,6 +23,6 @@ El correo directo es un canal sin conexión que le permite producir archivos par
 
 Obtenga información sobre cómo crear un envío de correo directo en la interfaz de usuario web de Adobe Campaign v8.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451786/?learn=on&captions=spa)
 
 Consulte la [documentación del producto de la interfaz de usuario web de Campaign](https://experienceleague.adobe.com/es/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail) para obtener más información.

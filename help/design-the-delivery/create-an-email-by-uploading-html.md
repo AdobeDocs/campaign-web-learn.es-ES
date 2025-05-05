@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Aprenda a crear un correo electrónico cargando HTML, a hacerlo compatible con el diseñador de correo electrónico y a convertirlo en una plantilla.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447035/?learn=on&captions=spa)

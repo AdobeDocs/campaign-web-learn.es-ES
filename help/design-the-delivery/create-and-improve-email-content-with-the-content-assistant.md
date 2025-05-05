@@ -27,6 +27,6 @@ Aprenda a utilizar el asistente de contenido generativo con tecnología de IA pa
 >
 > Esta funcionalidad está disponible en la actualidad en su versión Alpha y sujeta a cambios sin previo aviso.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452072/?learn=on&captions=spa)
 
 Para obtener más información, consulta la [documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).

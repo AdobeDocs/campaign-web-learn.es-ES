@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Aprenda a previsualizar el contenido y la personalización de los mensajes de correo electrónico, hacer envíos de prueba a destinatarios o suscriptores específicos para pruebas y validación, y comprobar el procesamiento de correo electrónico en clientes populares de escritorio, móviles y web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450340/?learn=on&captions=spa)

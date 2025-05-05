@@ -22,4 +22,4 @@ Al crear una campaña en Adobe Campaign, puede crear contenido dinámico y perso
 
 Obtenga información sobre cómo crear un perfil de prueba en la consola del cliente y cómo administrar y editar perfiles en la interfaz de usuario web de Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442844/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442898/?learn=on&enablevpops&captions=spa)
