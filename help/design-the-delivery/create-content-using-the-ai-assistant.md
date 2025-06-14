@@ -22,7 +22,7 @@ ht-degree: 20%
 
 Aprenda a utilizar el acelerador de contenido AI Assistant de Adobe para generar y personalizar rápidamente correos electrónicos de marketing, incluidas líneas de asunto, texto independiente e imágenes, a la vez que integra recursos aprobados por la marca para mantener la coherencia y el cumplimiento normativo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463767/?learn=on&enablevpops&captions=spa)
 
 ## Recursos adicionales
 
