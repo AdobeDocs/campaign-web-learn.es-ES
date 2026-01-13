@@ -6,7 +6,7 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
+source-git-commit: c2d7d7f669d4b1501f90c3e160b18a6955482139
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 91%
@@ -17,7 +17,7 @@ ht-degree: 91%
 
 Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y Cross-channel Execution. Esta guía del usuario contiene vídeos y tutoriales sobre las características y capacidades de la interfaz de usuario de la Adobe Campaign Web.
 
-Pruebe [la demostración en la que se puede hacer clic](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
+**Pruebe la [demostración en la que se puede hacer clic](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)!**
 
 La personalización de la plataforma de Campaign en función de las necesidades comerciales y de datos, y la conexión a otros sistemas se administran en la consola del cliente de Campaign. Como consecuencia, solo se puede acceder a algunos ajustes y funciones, crearse o administrarse desde la consola del cliente de Campaign. Consulte la [guía de la consola del cliente y web de Campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=es){target="_blank"} para obtener una descripción general de la configuración y las funciones que se convertirán en en el futuro.
 
