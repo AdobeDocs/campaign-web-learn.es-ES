@@ -5,10 +5,10 @@ user-guide-title: Interfaz de usuario de Adobe Campaign Web
 user-guide-description: Aprenda a utilizar las funciones y capacidades de la consola del cliente de Adobe Campaign Web.
 breadcrumb-title: 'Interfaz de usuario web: Tutoriales'
 auto-video-transcripts: true
-source-git-commit: a30c5951a9e7cc4ec1c33e59d59e9bda11c6041f
+source-git-commit: ad2377dde49c1ab0f805c998d407d04ffe659c26
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 96%
+source-wordcount: '165'
+ht-degree: 95%
 
 ---
 
@@ -19,12 +19,13 @@ ht-degree: 96%
 + Introducción {#getting-started}
    + [Guía de adopción de Adobe Campaign v8](https://experienceleague.adobe.com/es/docs/campaign-web/acs-to-ac/home)
    + [Exploración de la interfaz de usuario de Campaign Web](/help/get-started/explore-the-web-ui.md)
+   + [Demostración interactiva](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 + Mensajes y envíos {#messages-and-deliveries}
-   + [Crear un envío de correo electrónico](/help/deliveries/create-an-email-delivery.md)
+   + [Creación de una entrega de correo electrónico](/help/deliveries/create-an-email-delivery.md)
    + [Diseño de contenido de correo electrónico desde cero](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Creación de un correo electrónico cargando HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Previsualización y prueba de un envío de correo electrónico](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [Creación de un envío de correo directo](/help/design-the-delivery/create-a-direct-mail-delivery.md)
+   + [Creación de una entrega de correo directo](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Administración de contenido {#content-management}
    + [Mejora de un envío con contenido dinámico](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
    + [Creación de contenido con el Asistente de IA para la generación de contenido](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
@@ -34,7 +35,7 @@ ht-degree: 96%
    + [Administrar y generar públicos](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [Creación de un público con Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Flujos de trabajo {#workflows}
-   + [Crear un flujo de trabajo de segmentación](/help/workflows/create-a-targeting-workflow.md)
+   + [Creación de un flujo de trabajo de segmentación](/help/workflows/create-a-targeting-workflow.md)
    + [Configuración de la actividad de código de JavaScript](/help/workflows/configure-java-script-code-activity.md)
 + Grabaciones en directo de Experience League {#exl-live-recordings}
    + [Un salto adelante con la nueva interfaz de usuario web de Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=es){target="_blank"}
