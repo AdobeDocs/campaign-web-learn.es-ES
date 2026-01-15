@@ -10,7 +10,7 @@ jira: KT-14388
 duration: 592
 exl-id: 8c2f3847-5aca-4b7a-bf86-1212a741dfdd
 source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo acceder a la interfaz de usuario web de Campaign y navegar por ella, y cómo personalizar las listas de inventario.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453425/?captions=spa&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
 
 Consulte [Introducción a la web de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=es) para obtener más información sobre cómo navegar por la interfaz de usuario web de Campaign v8.
