@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Aprenda a crear y administrar públicos, a seleccionar públicos para un envío y definir grupos de control.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453205/?captions=spa&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, consulta la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=es)

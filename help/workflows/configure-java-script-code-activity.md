@@ -22,6 +22,6 @@ Aprenda a utilizar de forma eficaz la actividad del código JavaScript en Adobe 
 
 Este tutorial abarca tanto los modos de script simples como los avanzados. Explica la configuración de ejecución y la gestión de errores. Verá ejemplos reales, como, por ejemplo, segmentar perfiles de VIP, transformar datos y activar operaciones condicionales.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464922/?captions=spa&learn=on&enablevpops)
 
 Consulte la [documentación del producto](https://experienceleague.adobe.com/es/docs/campaign-web/v8/wf/design-workflows/javascript-code) para obtener más información sobre esta función.
