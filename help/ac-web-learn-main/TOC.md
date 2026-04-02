@@ -6,9 +6,9 @@ user-guide-description: Aprenda a utilizar las funciones y capacidades de la con
 breadcrumb-title: 'Interfaz de usuario web: Tutoriales'
 auto-video-transcripts: true
 source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
-workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 95%
+workflow-type: ht
+source-wordcount: '232'
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 95%
    + [Creación de una entrega de correo directo](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Administración de contenido {#content-management}
    + [Mejora de un envío con contenido dinámico](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
-   + [Creación de contenido con el Asistente de IA para la generación de contenido](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
+   + [Creación de contenido mediante el asistente de IA para la generación de contenido](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
 + Perfiles y públicos {#profiles-and-audiences}
    + [Exploración de perfiles](/help/profiles-and-audiences/explore-profiles.md)
    + [Creación y administración de perfiles de prueba](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
@@ -36,8 +36,8 @@ ht-degree: 95%
    + [Creación de un público con Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Flujos de trabajo {#workflows}
    + [Creación de un flujo de trabajo de segmentación](/help/workflows/create-a-targeting-workflow.md)
-   + [Configuración de la actividad de código de JavaScript](/help/workflows/configure-java-script-code-activity.md)
+   + [Configuración de la actividad de código JavaScript](/help/workflows/configure-java-script-code-activity.md)
 + Grabaciones en directo de Experience League {#exl-live-recordings}
    + [Un salto adelante con la nueva interfaz de usuario web de Adobe Campaign](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=es){target="_blank"}
 + [Tutoriales de consola del cliente de Campaign](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=es){target="_blank"}
-+ [Bash de IA: desbloquear toda la potencia del Asistente de IA en las aplicaciones de Adobe Experience Platform y Campaign](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
++ [Bash de IA: desbloqueo de toda la potencia del Asistente de IA en las aplicaciones de Adobe Experience Platform y Campaign](https://experienceleague.adobe.com/es/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)

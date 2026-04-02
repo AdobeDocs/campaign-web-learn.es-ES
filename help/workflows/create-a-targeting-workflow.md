@@ -1,6 +1,6 @@
 ---
-title: Crear un flujo de trabajo de segmentación
-description: Descubra cómo funcionan los flujos de trabajo y cómo crear un flujo de trabajo de objetivos.
+title: Creación de un flujo de trabajo de segmentación
+description: Descubra cómo funcionan los flujos de trabajo y cómo crear un flujo de trabajo de segmentación.
 feature: Workflows
 role: User
 level: Beginner
@@ -10,17 +10,17 @@ last-substantial-update: 2024-02-28T00:00:00Z
 jira: KT-14393
 exl-id: fa2ca5cd-decd-4360-86fc-412b06fae18a
 source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
-workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 43%
+workflow-type: ht
+source-wordcount: '49'
+ht-degree: 100%
 
 ---
 
-# Crear un flujo de trabajo de segmentación
+# Creación de un flujo de trabajo de segmentación
 
-Descubra cómo funcionan los flujos de trabajo y cómo crear un flujo de trabajo de objetivos.
+Descubra cómo funcionan los flujos de trabajo y cómo crear un flujo de trabajo de segmentación.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453974/?learn=on&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
 
 
 Para más información sobre esta característica, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=es).
