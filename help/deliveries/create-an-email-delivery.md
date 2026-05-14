@@ -31,6 +31,6 @@ ht-degree: 100%
 
 Obtenga información sobre cómo crear un envío de correo electrónico desde cero, definir el público, diseñar el contenido, simular la previsualización y enviar una prueba.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454008/?captions=spa&learn=on)
 
 Para obtener más información acerca de esta funcionalidad, consulta la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=es)
