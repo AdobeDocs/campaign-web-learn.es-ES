@@ -54,7 +54,7 @@ La personalización de la plataforma de Campaign en función de las necesidades 
 
 >[!INFO]
 > 
-> ¿Tiene preguntas? ¿Le gustaría compartir su experiencia o intercambiar ideas con sus colegas? O bien, ¿tiene comentarios sobre el contenido de aprendizaje para el equipo de Adobe? ¡Únase a la conversación en el **[hilo de la comunidad de aprendizaje de Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096){target="_blank"}**!
+> ¿Tiene preguntas? ¿Le gustaría compartir su experiencia o intercambiar ideas con sus colegas? O bien, ¿tiene comentarios sobre el contenido de aprendizaje para el equipo de Adobe? ¡Únase a la conversación en el **[hilo de la comunidad de aprendizaje de Adobe Campaign](https://experienceleaguecommunities.adobe.com?lang=es:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096){target="_blank"}**!
 >
 >
 > ¿Estos tutoriales no son lo que buscaba?
