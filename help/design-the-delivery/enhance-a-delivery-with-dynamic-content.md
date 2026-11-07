@@ -38,6 +38,6 @@ ht-degree: 100%
 
 Aprenda a hacer que el contenido del mensaje sea dinámico mediante el editor de expresiones para personalizar el mensaje o añadir contenido condicional.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425795/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505240/?captions=spa&learn=on&enablevpops)
 
 Consulte la documentación del producto para obtener más información sobre [cómo hacer que su contenido sea dinámico](https://experienceleague.adobe.com/es/docs/campaign-web/v8/content/dynamic-content/gs-personalization).
